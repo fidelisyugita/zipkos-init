@@ -1,0 +1,43 @@
+{
+  "onboardingTitle1": "Jelajah Belitung dalam Genggamanmu",
+  "onboardingDescription1": "Temukan panduan untuk wisata, tempat makan, souvenir sampai transportasi di Belitung.",
+  "onboardingTitle2": "Update Langsung dari Warga Lokal",
+  "onboardingDescription2": "Velit integer porta eget egestas malesuada ac neque. Feugiat nisl, quis quis id in amet felis.",
+  "onboardingTitle3": "Berikan Pendapatmu",
+  "onboardingDescription3": "Velit integer porta eget egestas malesuada ac neque. Feugiat nisl, quis quis id in amet felis.",
+
+  "logIn": "Masuk",
+  "signUp": "Daftar",
+  "skip": "Lewati",
+
+  "home": "Home",
+  "booking": "Booking",
+  "message": "Message",
+  "account": "Account",
+
+  "zipBalance": "ZipBalance",
+  "withdraw": "Withdraw",
+
+  "monthlyTotal": "Monthly Total",
+
+  "income": "Income",
+  "expense": "Expense",
+  "occupiedRoom": "Occupied Room",
+  "emptyRoom": "Empty Room",
+
+  "addProperty": "Add Property",
+  "manageRooms": "Manage Rooms",
+  "kostExpenses": "Kost Expenses",
+  "staffManagement": "Staff Management",
+  "staffList": "Staff List",
+  "guestList": "Guest List",
+  "guidelines": "Guidelines",
+
+  "financialStatistics": "Financial Statistics",
+  "bookingStatistics": "Booking Statistics",
+  "seeDetails": "See Details",
+
+  "myProperty": "My Property",
+
+  "close": "Close"
+}
